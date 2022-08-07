@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saleh Fakka
+- 👀 I’m interested in ML & DS
+- 🌱 I’m currently studing AI
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 to reach me on ig: ifakka
